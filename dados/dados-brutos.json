@@ -1,0 +1,1338 @@
+{
+ "vyprro.com": {
+  "dominio": "vyprro.com",
+  "coletado_em": "2026-07-27T15:33:24",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "gtm",
+    "snap"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/vyprro"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 60,
+   "n_variantes": 385,
+   "preco_min": 29.0,
+   "preco_mediana": 39.9,
+   "preco_max": 139.99,
+   "primeiro_produto": "2026-05-29",
+   "ultimo_produto": "2026-06-26",
+   "vendors": [
+    "VYPRO"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "Phantom Watch",
+     "handle": "phantom-watch",
+     "preco": 99.9,
+     "publicado": "2026-06-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/3_55019765-8539-4d30-a888-0a2d2ad5e5d6.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Imperial Gold Watch",
+     "handle": "imperial-gold-watch",
+     "preco": 119.99,
+     "publicado": "2026-06-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/ImperialWatchluxurymen_sstainlesssteelwatchfeaturingabluesunburstdialandintegratedbracelet3.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Imperial Watch",
+     "handle": "imperial-watch",
+     "preco": 119.99,
+     "publicado": "2026-06-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/ImperialWatchluxurymen_sstainlesssteelwatchfeaturingabluesunburstdialandintegratedbracelet9.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Vertex Watch",
+     "handle": "vertex-watch",
+     "preco": 139.99,
+     "publicado": "2026-06-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/3_bc6d4f66-a558-4568-8f37-a9b583731db0.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Apex Watch",
+     "handle": "apex-watch",
+     "preco": 89.99,
+     "publicado": "2026-06-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/ApexWatch.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Regent Watch",
+     "handle": "regent-watch",
+     "preco": 99.99,
+     "publicado": "2026-06-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/RegentWatchvyprro1.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ocean Crest Watch",
+     "handle": "ocean-crest-watch",
+     "preco": 79.99,
+     "publicado": "2026-06-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/OceanCrestWatch1.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Heritage Watch",
+     "handle": "heritage-watch",
+     "preco": 79.98,
+     "publicado": "2026-06-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/NautilusHeritageWatchvyprro2.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Royal Oak Watch",
+     "handle": "royal-oak-watch",
+     "preco": 119.99,
+     "publicado": "2026-06-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/RoyalOakWatchrosewhite.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Nautilus Classic Watch",
+     "handle": "nautilus-classic-watch",
+     "preco": 69.99,
+     "publicado": "2026-06-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/NautilusClassicWatchpremiumstainlesssteelmen_swatchwithintegratedbraceletandGREENtextureddial.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "NOCTIS RING BLACK",
+     "handle": "noctis-ring-black",
+     "preco": 54.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Noctis_Ring_premium_black_signet_ring_for_men_by_Vyro_black_brown.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "NOCTIS RING SILVER",
+     "handle": "noctis-ring-silver",
+     "preco": 54.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Produtos_Aureon_GOLD_loja_VYPRO.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "NOCTIS RING GOLD",
+     "handle": "noctis-ring-gold",
+     "preco": 54.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Noctis_Ring_premium_black_signet_ring_for_men_by_Vyro_gold.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "CORVUS RING",
+     "handle": "corvus-ring",
+     "preco": 29.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/CorvusRing.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "VANGUARD RING",
+     "handle": "vanguard-ring",
+     "preco": 29.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Vanguard_Ring_by_Vyro_Premium_textured_silver_ring_featuring_a_woven-inspired_design_crafted_for_modern_men..png",
+     "tipo": ""
+    },
+    {
+     "titulo": "VANTA RING",
+     "handle": "products-vanta-ring",
+     "preco": 29.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Noctis_Ring_by_Vyro_Premium_gold_signet_ring_featuring_a_sleek_black_onyx-inspired_centerpiece_for_modern_men..png",
+     "tipo": ""
+    },
+    {
+     "titulo": "NOIR RING",
+     "handle": "products-noir-ring",
+     "preco": 39.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Noir_Ring_by_Vyro_Minimalist_black_signet_ring_for_men_crafted_in_premium_stainless_steel..png",
+     "tipo": ""
+    },
+    {
+     "titulo": "NEXOR RING",
+     "handle": "nexor-ring",
+     "preco": 49.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/NEXOR_Ring_silver_stainless_steel_chain_ring_for_men.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "VALDRIN RING",
+     "handle": "valdrin-ring",
+     "preco": 49.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/VALDRIN_Ring_gold_stainless_steel_Norse_spinner_ring_premium_men_s_jewelry.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "VORTEX RING",
+     "handle": "vortex-ring",
+     "preco": 49.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Vortex_Ring_gold_statement_ring_with_sculptural_design.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "NAVARIS NECKLACE",
+     "handle": "navaris-necklace",
+     "preco": 79.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Navaris_Necklace_gold_compass_pendant_necklace_for_men_by_Vyro.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "AETHER CROSS NECKLACE",
+     "handle": "aether-cross-necklace",
+     "preco": 49.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Aether_Cross_Necklace_premium_silver_cross_pendant_for_men_by_Vyro.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "VELOR PEARL NECKLACE",
+     "handle": "velor-pearl-necklace",
+     "preco": 39.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/ProdutosAureonGOLDlojaVYPRO_37bc29b1-7580-46b7-ae3e-7e98e2f82eb6.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "ONYXIS NECKLACE",
+     "handle": "onyxis-necklace",
+     "preco": 39.0,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/3_6bfdf745-6593-4e5a-a7d0-ef64edccc496.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "AUREX NECKLACE",
+     "handle": "aurex-necklace",
+     "preco": 29.99,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/AUREX_NECKLACE_GOLD.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "VEYLOR",
+     "handle": "veylor-bracelet",
+     "preco": 39.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Veylor_Bracelet_Premium_Nautical_Bracelet_for_Men.png"
+    },
+    {
+     "titulo": "AUREON STRATA",
+     "handle": "aureon-strata-bracelet",
+     "preco": 29.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/7_674d062c-2974-475b-bf9b-9839a05e346b.png"
+    },
+    {
+     "titulo": "AUREON PLATINUM GOLD",
+     "handle": "aureon-platinum-gold-bracelet",
+     "preco": 33.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/AureonBraceletPremiumNauticalBraceletforMenVypro5.png"
+    },
+    {
+     "titulo": "VANTHOR™",
+     "handle": "vanthor-bracelet",
+     "preco": 59.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Men_s_Chain_Bracelet.png"
+    },
+    {
+     "titulo": "AURYON MARINER",
+     "handle": "auryon-mariner-bracelet",
+     "preco": 39.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/AURYON_MARINER_BLACK.png"
+    },
+    {
+     "titulo": "VYRO ECLIPSE",
+     "handle": "products-vyro-eclipse-bracelet",
+     "preco": 89.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Vyro_Eclipse_Bracelet_Luxury_Black_Tennis_Bracelet_for_Men.png"
+    },
+    {
+     "titulo": "NOCTIS RING GOLD",
+     "handle": "noctis-ring-gold",
+     "preco": 54.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Noctis_Ring_premium_black_signet_ring_for_men_by_Vyro_gold.png"
+    },
+    {
+     "titulo": "NOIR CROWN",
+     "handle": "noir-crown-bracelet",
+     "preco": 29.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/noir-crown-bracelet.png"
+    },
+    {
+     "titulo": "NOCTIS RING SILVER",
+     "handle": "noctis-ring-silver",
+     "preco": 54.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/Produtos_Aureon_GOLD_loja_VYPRO.png"
+    },
+    {
+     "titulo": "VYRO BRAIDEN BLACK",
+     "handle": "vyro-braiden-premium-braided-leather-bracelet",
+     "preco": 39.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/1_22b1c8ba-d9a5-4adc-9d3d-617ccce073ad.png"
+    },
+    {
+     "titulo": "AUREX NECKLACE",
+     "handle": "aurex-necklace",
+     "preco": 29.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0662/2465/2382/files/AUREX_NECKLACE_GOLD.png"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "vyprro": {
+    "seguidores": "11K",
+    "posts": "25",
+    "raw": "11K Followers, 14 Following, 25 Posts - See Instagram photos and videos from Vyprro &#x2022; Bracelet and men&#039;s accessories (&#064;vyprro)"
+   }
+  }
+ },
+ "luxujewelry.shop": {
+  "dominio": "luxujewelry.shop",
+  "coletado_em": "2026-07-27T15:34:08",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/luxujewelry.shop"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 116,
+   "n_variantes": 1993,
+   "preco_min": 0.1,
+   "preco_mediana": 42.0,
+   "preco_max": 260.0,
+   "primeiro_produto": "2023-10-20",
+   "ultimo_produto": "2026-07-14",
+   "vendors": [
+    "LUXUJEWELRY"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "Aurelio Ruby Cuban Chain | 18K Gold Plated 316L Stainless Steel",
+     "handle": "aurelio-ruby-cuban-chain-18k-gold-plated-316l-stainless-steel",
+     "preco": 39.0,
+     "publicado": "2026-07-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/20260719004916_18_7.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Leather Bracelet For Men",
+     "handle": "premium-leather-bracelet-for-men",
+     "preco": 39.9,
+     "publicado": "2026-07-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/11_aaa7ccad-cd53-41fe-9314-438e73226dac.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Square Chain",
+     "handle": "square-chain",
+     "preco": 0.1,
+     "publicado": "2026-06-16",
+     "imagem": null,
+     "tipo": ""
+    },
+    {
+     "titulo": "Butterfly Glow Pendant Necklace",
+     "handle": "butterfly-glow-pendant-necklace",
+     "preco": 34.0,
+     "publicado": "2026-04-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10004_2e27659e-50d0-4063-965d-2e5dbb2aed6b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Natural Tiger's Eye Stone Bracelet",
+     "handle": "natural-tigers-eye-stone-bracelet",
+     "preco": 39.9,
+     "publicado": "2025-12-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/3_fa201b4e-73b9-4583-8044-c6cd227045fc.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Chunky Cuban Chain Chain | Silver & Gold, 8mm & 12mm",
+     "handle": "chunky-cuban-chain",
+     "preco": 39.0,
+     "publicado": "2025-11-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/1_52e0edba-117d-40f3-af2b-67bbfc5642e4.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Round Tiger's Eye Bracelet",
+     "handle": "round-tigers-eye-bracelet",
+     "preco": 98.0,
+     "publicado": "2025-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_2551bf5f-aecb-4d4a-9565-e597ec34ad87.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Trendy Tiger's Eye Bracelet",
+     "handle": "trendy-tigers-eye-bracelet",
+     "preco": 89.0,
+     "publicado": "2025-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_2c4c9d3b-5148-4279-a478-f91c42e85465.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Natural Black & White Bodhi Bracelet – Handmade Spiritual Jewelry",
+     "handle": "natural-black-and-white-bodhi-bracelet",
+     "preco": 49.0,
+     "publicado": "2025-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10006_3b887ce6-e9f8-41a4-8f05-4c23e82528fc.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Original Ecological Bodhi Bracelet",
+     "handle": "original-ecological-bodhi-bracelet",
+     "preco": 49.0,
+     "publicado": "2025-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_9f2c01fe-0213-4d0b-9cc4-0d675343f6c0.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Original Ecological White Bodhi Bracelet",
+     "handle": "original-ecological-white-bodhi-bracelet",
+     "preco": 49.0,
+     "publicado": "2025-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10008_c61a0d41-114f-4f2a-9e8f-666007234bdd.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Natural Olive Pit Tablet-Shape Bracelet",
+     "handle": "natural-olive-pit-tablet-shape-bracelet",
+     "preco": 49.0,
+     "publicado": "2025-09-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/1.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Rainbow Series Coconut Pedicel Bracelet with Jade Accents",
+     "handle": "rainbow-series-coconut-pedicel-bracelet-with-jade-accents",
+     "preco": 89.0,
+     "publicado": "2025-09-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_0376a85a-d7c2-4da9-923d-8d56af8ed031.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Natural Agarwood Jade Bracelet",
+     "handle": "natural-agarwood-jade-bracelet",
+     "preco": 199.0,
+     "publicado": "2025-09-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10005_cc7b63d3-f751-442e-91d0-d9f5749a08c7.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Romantic Agate Bracelet",
+     "handle": "romantic-agate-bracelet",
+     "preco": 136.0,
+     "publicado": "2025-09-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_aec9ffe3-e3e8-4858-841f-9fca21ca3be2.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Gradient Firework Earring",
+     "handle": "gradient-firework-earring",
+     "preco": 19.0,
+     "publicado": "2025-09-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/20250918215643_67_35.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Rosewood Buddhist Protection Bracelet",
+     "handle": "rosewood-buddhist-protection-bracelet",
+     "preco": 69.0,
+     "publicado": "2025-09-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10008_94865513-ca0d-423c-832e-c1630959303f.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Hematite Essential Bracelet",
+     "handle": "hematite-essential-bracelet",
+     "preco": 75.0,
+     "publicado": "2025-09-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_fce9eb2d-8517-4f04-803e-3b4e904791f4.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Retro Feather Necklace",
+     "handle": "retro-feather-necklace",
+     "preco": 35.0,
+     "publicado": "2025-04-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_a94366fe-32bf-4470-a589-66fb7c89d630.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Round Cut Zircon Ring",
+     "handle": "round-cut-zircon-ring",
+     "preco": 34.9,
+     "publicado": "2025-03-03",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/20250303121030.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "5 Layer Zircon Band Ring",
+     "handle": "5-layer-zircon-band-ring",
+     "preco": 44.9,
+     "publicado": "2025-02-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_564a436c-8443-490e-8469-d8e9157f84b3.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Nail Cross Necklace",
+     "handle": "nail-cross-necklace",
+     "preco": 39.0,
+     "publicado": "2025-02-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001_92861245-c185-4b89-ae53-c9f3664751ae.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "18K gold plated Cross Pendant Necklace",
+     "handle": "18k-gold-plated-cross-pendant-necklace",
+     "preco": 35.0,
+     "publicado": "2025-02-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10003_c5b748a6-f165-4c80-a353-4a36313f4ff8.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Zirconia Cross Tennis Necklace",
+     "handle": "zirconia-cross-tennis-necklace",
+     "preco": 45.0,
+     "publicado": "2025-02-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10002_0a29ff2e-2e9d-4c72-89f9-1e82daafc2d8.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Rope Bracelet",
+     "handle": "premium-rope-bracelet",
+     "preco": 29.9,
+     "publicado": "2024-12-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/0799/4658/0273/files/10001.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 27,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 21,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "luxujewelry.shop": {
+    "seguidores": "3,032",
+    "posts": "70",
+    "raw": "3,032 Followers, 14 Following, 70 Posts - See Instagram photos and videos from LUXUJEWELRY (&#064;luxujewelry.shop)"
+   }
+  }
+ },
+ "storeedyta.com": {
+  "dominio": "storeedyta.com",
+  "coletado_em": "2026-07-27T15:34:56",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "afterpay",
+    "bold",
+    "gtag",
+    "klaviyo",
+    "pinterest",
+    "shop-pay",
+    "snap",
+    "tiktok",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/storeedyta",
+    "https://www.pinterest.com/edytashop0842",
+    "https://www.tiktok.com/@storeedyta",
+    "https://www.youtube.com/@storeedyta"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 96,
+   "n_variantes": 189,
+   "preco_min": 1.99,
+   "preco_mediana": 34.99,
+   "preco_max": 150.0,
+   "primeiro_produto": "2022-11-07",
+   "ultimo_produto": "2026-07-22",
+   "vendors": [
+    "Ed&Ta"
+   ],
+   "tipos": [
+    "",
+    "Joyeria",
+    "accesorios"
+   ],
+   "produtos": [
+    {
+     "titulo": "Adjustable Twisted Cable Bracelet for Men – 304 Stainless Steel Cuff, Silver & Gold",
+     "handle": "adjustable-twisted-cable-bracelet-for-men-304-stainless-steel-cuff-silver-gold",
+     "preco": 24.99,
+     "publicado": "2026-07-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPT-Image-22-jul-2026_-02_54_35-p.m..jpg",
+     "tipo": "Joyeria"
+    },
+    {
+     "titulo": "Tiger eye bracelet for men.",
+     "handle": "turquoise-tiger-eye-volcanic-stone-bracelet-1",
+     "preco": 20.0,
+     "publicado": "2026-07-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPT_Image_4_feb_2026_10_50_25_a.m..jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Tiger Eye Cross Bracelet for Men – Natural Stone Beaded Christian Bracelet",
+     "handle": "tiger-eye-cross-bracelet-for-men-natural-stone-beaded-christian-bracelet",
+     "preco": 19.99,
+     "publicado": "2026-07-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/rn-image_picker_lib_temp_9640ed37-23ed-4710-ab51-6eafbae1769b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Punk style retro woven suit cowhide simple men's bracelet",
+     "handle": "punk-style-retro-woven-suit-cowhide-simple-mens-bracelet",
+     "preco": 32.99,
+     "publicado": "2026-07-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPT_Image_26_ene_2026_08_08_30_a.m..jpg",
+     "tipo": "accesorios"
+    },
+    {
+     "titulo": "Viking Leather and Bead Bracelet Set for Men",
+     "handle": "viking-leather-and-bead-bracelet-set-for-men-copia",
+     "preco": 32.99,
+     "publicado": "2026-07-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPT_Image_26_ene_2026_08_11_12_a.m..jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "addons-first-1ki9awr",
+     "preco": 1.99,
+     "publicado": "2026-07-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/15786995_ea8268af-fddf-4b1b-879d-33f8dbfe365f.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "addons-first-1b6awva",
+     "preco": 1.99,
+     "publicado": "2026-06-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/15786995.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "addons-first-9ccwgt",
+     "preco": 1.99,
+     "publicado": "2026-06-03",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/OR8w256.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Gold Vegvisir Necklace for Men – Viking Compass with Runes",
+     "handle": "men-s-viking-compass-pendant-necklace",
+     "preco": 42.99,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Gold_Vegvisir_Necklace.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "6-Piece Men’s Beaded Bracelet Set – Natural Stone & Vintage Wooden Stack",
+     "handle": "6-piece-men-s-beaded-bracelet-set-natural-stone-vintage-wooden-stack",
+     "preco": 29.99,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Capturadepantalla2026-03-27131631.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "6-Piece Men’s Wooden Beaded Bracelet Set – Vintage Style Stack",
+     "handle": "6-piece-men-s-beaded-bracelet-set-wooden-natural-stone-stack",
+     "preco": 24.99,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Capturadepantalla2026-03-27131659.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "12-Piece Men’s Bracelet Set – Leather & Beaded Stack Style",
+     "handle": "12-piece-men-s-bracelet-set-leather-beaded-stack-style",
+     "preco": 39.99,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Capturadepantalla2026-03-27132530.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Adjustable Men’s Signet Ring – Black Stone Celtic Design",
+     "handle": "adjustable-men-s-signet-ring-black-stone-celtic-design",
+     "preco": 24.99,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ANI2.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Men’s Retro Hip Hop Rune Ring",
+     "handle": "men-s-retro-hip-hop-rune-ring",
+     "preco": 19.99,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/9_a411663d-81fc-4c35-a63f-b6c31d06fbea.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "ED&TA GIFT CARD",
+     "handle": "ed-ta-gift-card",
+     "preco": 50.0,
+     "publicado": "2026-03-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/A_symbol_of_faith_that_s_always_with_you._4.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Dragon Head Bracelet – Multi-Color Finish, Bold & Masculine Style",
+     "handle": "dragon-head-bracelet-multi-color-finish-bold-masculine-style",
+     "preco": 39.99,
+     "publicado": "2026-03-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/lobo5_b9b6b587-a085-4a36-be56-1d2f442d2f44.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Franco Chain Bracelet – 304 Stainless Steel Wheat/Spiga Bracelet for Men",
+     "handle": "franco-chain-bracelet-304-stainless-steel-wheat-spiga-bracelet-for-men",
+     "preco": 39.99,
+     "publicado": "2026-03-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/01.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Hip Hop Link Bracelet – 304 Stainless Steel Chain Bracelet for Men",
+     "handle": "hip-hop-link-bracelet-304-stainless-steel-chain-bracelet-for-men",
+     "preco": 34.99,
+     "publicado": "2026-03-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/1_20e56d65-355f-47d2-bce6-f4c645615f11.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Viking Celtic Knot Bracelet – Nordic Titanium Steel Cuff for Men",
+     "handle": "viking-celtic-knot-bracelet-nordic-titanium-steel-cuff-for-men",
+     "preco": 34.99,
+     "publicado": "2026-03-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/4_e0a76148-d71f-4cd8-a25d-7bd46642dff5.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Viking Rune Bracelet with Valknut – Nordic Style Stainless Steel Men’s Bracelet",
+     "handle": "viking-rune-bracelet-with-valknut-nordic-style-stainless-steel-men-s-bracelet",
+     "preco": 39.99,
+     "publicado": "2026-03-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/1_65c2634f-0e74-4bc3-8526-004b00697317.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Men’s USA Flag Dog Tag Necklace | Stainless Steel Military Pendant (Gold & Silver)",
+     "handle": "men-s-usa-flag-dog-tag-necklace-stainless-steel-military-pendant-gold-silver",
+     "preco": 39.99,
+     "publicado": "2026-03-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/1_88dcf033-48f7-45d1-a2f5-b5407748bce3.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Unisex Fashion Accessories Chain",
+     "handle": "unisex-fashion-accessories-chain",
+     "preco": 20.99,
+     "publicado": "2026-03-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Unisex_Twisted_Stainless_Steel_Chain_Necklace_Men_Women_Ed_Ta.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Vegvisir Norse Compass Necklace Stainless Steel – Black Cord 24in",
+     "handle": "vegvisir-norse-compass-necklace-stainless-steel-black-cord-24",
+     "preco": 39.99,
+     "publicado": "2026-03-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/BRUJULA.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cross Necklace Stainless Steel",
+     "handle": "cross-necklace-stainless-steel-28-chain-3mm",
+     "preco": 42.99,
+     "publicado": "2026-03-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/rn-image_picker_lib_temp_ede3dddf-97cb-41bb-971b-932e393fa677.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Viking Thor's Hammer Bracelet for Men – Mjolnir Norse Rope Wristband | Stainless Steel",
+     "handle": "viking-thor-s-hammer-bracelet",
+     "preco": 39.99,
+     "publicado": "2026-03-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPTImage7mar2026_01_26_01p.m..png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Celtic Cross Necklace for Men – 316L Stainless Steel | Irish Knotwork Pendant",
+     "handle": "carved-viking-cross-pendant-necklace",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/crossceltic.png"
+    },
+    {
+     "titulo": "Yggdrasil  Necklace with helm of awe",
+     "handle": "tree-of-life-pendant-necklace-with-vegvisir-rune-retro-punk-style-for-men",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/treelive.png"
+    },
+    {
+     "titulo": "Archangel Michael Shield Necklace for Men – Full Armor Pendant | Stainless Steel Gold Silver",
+     "handle": "archangel-michael-shield-necklace-mens-spiritual-protection",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/archengel.png"
+    },
+    {
+     "titulo": "Archangel Michael Necklace for Men – Sword & Wings Shield Pendant | Stainless Steel",
+     "handle": "archangel-michael-necklace-with-sword-and-wings-protective-stainless-steel-pendant",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/angel_michael.png"
+    },
+    {
+     "titulo": "Valknut Necklace for Men – Norse Odin Symbol Viking Pendant | Stainless Steel",
+     "handle": "viking-runic-pendant-nordic-style-necklace",
+     "preco": 42.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/necklace_valknut.png"
+    },
+    {
+     "titulo": "Archangel Michael Shield Necklace for Men – 316L Stainless Steel Protection Pendant | Gold Silver",
+     "handle": "st-michael-archangel-shield-pendant-stainless-steel-necklace-divine-protection-unique-style",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPT_Image_4_feb_2026_09_14_53_a.m._1.jpg"
+    },
+    {
+     "titulo": "Thor's Hammer Mjolnir Necklace for Men – Viking Stainless Steel Pendant",
+     "handle": "viking-necklace-with-thors-hammer-and-crown-norse-runes-valknut-amulet-for-men-vintage-style-stainless-steel-pendant",
+     "preco": 49.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Thor_Hammer_Mjolnir_Viking_Necklace_Stainless_Steel_Norse_Runes_Men.jpg"
+    },
+    {
+     "titulo": "Celtic Trinity Knot Stainless Steel Necklace",
+     "handle": "mens-punk-irish-celtic-necklace",
+     "preco": 39.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/trinidad.png"
+    },
+    {
+     "titulo": "Spartan Helmet Necklace for Men – Greek Warrior Pendant",
+     "handle": "spartan-corinthian-helmet-pendant-necklace-stainless-steel-greek-warrior-jewelry-mythology-and-strength-gift",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/spartaco.png"
+    },
+    {
+     "titulo": "Hip Hop Geometric Bracelet for Men – 304 Steel 18K Gold Plated | Gold Silver",
+     "handle": "304-stainless-steel-18k-gold-plated-hip-hop-geometric-inlay-bracelet",
+     "preco": 39.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/ChatGPT_Image_26_ene_2026_08_50_19_a.m..png"
+    },
+    {
+     "titulo": "Jesus Crucifix Necklace for Men – 316L Stainless Steel Catholic Cross Pendant | Gold Silver",
+     "handle": "mens-stainless-steel-jesus-crucifix-pendant-durable-catholic-cross-necklace",
+     "preco": 45.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/rn-image_picker_lib_temp_80cbdb6a-09d6-48ff-8b39-ca23a7227fc9.png"
+    },
+    {
+     "titulo": "Triquetra Rune Necklace – Celtic Trinity Knot Viking Pendant",
+     "handle": "viking-nordic-rune-necklace-for-men-celtic-knot-in-stainless-steel",
+     "preco": 34.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0675/3406/1870/files/Triqueta..png"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2024-01-04",
+   "dias_arquivados": 8,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "alfredco.com": {
+  "dominio": "alfredco.com",
+  "coletado_em": "2026-07-27T15:35:18",
+  "identificacao": {
+   "erro": "home inacessivel"
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2005-11-05",
+   "dias_arquivados": 0,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 1201457,
+   "rank_antigo": 1163942,
+   "dias": 42,
+   "variacao": -37515,
+   "tendencia": "caindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "humbler.com": {
+  "dominio": "humbler.com",
+  "coletado_em": "2026-07-27T15:35:59",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gorgias",
+    "gtag",
+    "hotjar",
+    "judge.me",
+    "klaviyo",
+    "pinterest",
+    "postscript",
+    "shop-pay",
+    "snap",
+    "triplewhale"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 108,
+   "n_variantes": 184,
+   "preco_min": 18.0,
+   "preco_mediana": 55.0,
+   "preco_max": 94.0,
+   "primeiro_produto": "2019-06-25",
+   "ultimo_produto": "2026-05-02",
+   "vendors": [
+    "HumblerCo",
+    "Humbler",
+    "related_to_8637523656858"
+   ],
+   "tipos": [
+    "",
+    "tags",
+    "cpb_product",
+    "cpb_hybrid",
+    "free_gift"
+   ],
+   "produtos": [
+    {
+     "titulo": "Perseus vs. Medusa Coin Pendant",
+     "handle": "perseus-vs-medusa-coin-pendant",
+     "preco": 75.0,
+     "publicado": "2026-05-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/perseus-vs_-medusa-coin-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Icarus Double Sided Pendant",
+     "handle": "icarus-double-sided-pendant-gold",
+     "preco": 75.0,
+     "publicado": "2026-05-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/icarus-double-sided-pendant_e5a94335.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Icarus Double Sided Pendant",
+     "handle": "icarus-double-sided-pendant-silver",
+     "preco": 75.0,
+     "publicado": "2026-05-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/icarus-double-sided-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "3MM ROPE CHAIN",
+     "handle": "3mm-cuban-link-chain-copy",
+     "preco": 45.0,
+     "publicado": "2026-02-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/3mm-rope-chain.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "3MM ROPE CHAIN",
+     "handle": "3mm-cuban-link-chain-copy-1",
+     "preco": 45.0,
+     "publicado": "2026-02-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/3mm-rope-chain_76b7cf43.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Rose Cross Pendant",
+     "handle": "rose-cross-pendant-gold",
+     "preco": 65.0,
+     "publicado": "2025-12-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/rose-cross-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Custom Humbler Dog Tag",
+     "handle": "cpb-order-55a16f64-237e-48e3-adea-d05017810894",
+     "preco": 57.0,
+     "publicado": "2025-10-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/custom-humbler-dog-tag-cpb_hybrid.png",
+     "tipo": "cpb_hybrid"
+    },
+    {
+     "titulo": "Custom Humbler Dog Tag",
+     "handle": "custom-humbler-dog-tag",
+     "preco": 57.0,
+     "publicado": "2025-09-29",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/custom-humbler-dog-tag-cpb_product.png",
+     "tipo": "cpb_product"
+    },
+    {
+     "titulo": "St. Michael Double Sided Pendant",
+     "handle": "st-michael-double-sided-pendant-copy",
+     "preco": 75.0,
+     "publicado": "2025-06-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/st_-michael-double-sided-pendant_87fd4728.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Essential Cross Pendant",
+     "handle": "essential-cross-pendant-copy",
+     "preco": 75.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/essential-cross-pendant.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Jesus Piece Pendant",
+     "handle": "jesus-piece-gold-pendant-copy",
+     "preco": 55.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/jesus-piece-pendant_bca368dc.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Hard Work & God's Work Bracelet",
+     "handle": "hard-work-gods-work-bracelet-copy-1",
+     "preco": 55.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/hard-work-gods-work-bracelet_4963d22b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Essential Cross Pendant",
+     "handle": "essential-cross-gold-pendant",
+     "preco": 75.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/essential-cross-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Jesus Piece Pendant",
+     "handle": "jesus-piece",
+     "preco": 60.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/jesus-piece-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Hard Work & God's Work Bracelet",
+     "handle": "hard-work-gods-work-coin-pendant-copy",
+     "preco": 55.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/hard-work-gods-work-bracelet.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "David vs. Goliath Double Sided Pendant",
+     "handle": "david-vs-goliath-double-sided-pendant",
+     "preco": 57.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/david-vs_-goliath-double-sided-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "St. Michael Double Sided Pendant",
+     "handle": "st-michael-double-sided-pendant",
+     "preco": 75.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/st_-michael-double-sided-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Hard Work & God's Work Coin Pendant",
+     "handle": "hard-work-gods-work-coin-pendant",
+     "preco": 55.0,
+     "publicado": "2025-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/hard-work-gods-work-coin-pendant.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cuban 8mm Set",
+     "handle": "cuban-8mm-set-silver",
+     "preco": 94.0,
+     "publicado": "2024-12-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/cuban-8mm-set_69b0349e.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cuban 8mm Set",
+     "handle": "cuban-8mm-set-gold",
+     "preco": 94.0,
+     "publicado": "2024-12-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/cuban-8mm-set.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cuban Stack Set",
+     "handle": "cuban-stack-set-gold",
+     "preco": 94.0,
+     "publicado": "2024-12-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/cuban-stack-set_422ef681.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cuban Stack Set",
+     "handle": "cuban-stack-set-silver",
+     "preco": 94.0,
+     "publicado": "2024-12-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/cuban-stack-set.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cuban + Rope Set",
+     "handle": "cuban-rope-set-silver-copy",
+     "preco": 94.0,
+     "publicado": "2024-12-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/cuban-rope-set_ba7f91b8.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cuban + Rope Set",
+     "handle": "cuban-rope-set-silver",
+     "preco": 94.0,
+     "publicado": "2024-12-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/cuban-rope-set.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Spartan Skull Veni Vidi Vici Set",
+     "handle": "spartan-skull-veni-vidi-vici-set-copy",
+     "preco": 80.0,
+     "publicado": "2024-12-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/spartan-skull-veni-vidi-vici-set.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Hard Work & God's Work Double Sided Pendant",
+     "handle": "hard-work-gods-work-double-sided-pendant-gold",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/hard-work-gods-work-double-sided-pendant.jpg"
+    },
+    {
+     "titulo": "St. Michael Double Sided Pendant",
+     "handle": "st-michael-double-sided-pendant-copy",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/st_-michael-double-sided-pendant_87fd4728.jpg"
+    },
+    {
+     "titulo": "Death Smile Memento Mori Coin Pendant",
+     "handle": "death-smile-memento-mori-coin-pendant",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/death-smile-memento-mori-coin-pendant.jpg"
+    },
+    {
+     "titulo": "Death Smile Memento Mori Coin Pendant",
+     "handle": "death-smile-memento-mori-coin-pendant-black",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/death-smile-memento-mori-coin-pendant_5367dd18.jpg"
+    },
+    {
+     "titulo": "Essential Cross Pendant",
+     "handle": "essential-cross-pendant-copy",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/essential-cross-pendant.png"
+    },
+    {
+     "titulo": "Icarus Double Sided Pendant",
+     "handle": "icarus-double-sided-pendant-silver",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/icarus-double-sided-pendant.jpg"
+    },
+    {
+     "titulo": "St. Michael Double Sided Pendant",
+     "handle": "st-michael-double-sided-pendant",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/st_-michael-double-sided-pendant.jpg"
+    },
+    {
+     "titulo": "Spartan Skull Veni Vidi Vici Coin Pendant",
+     "handle": "veni-vidi-vici-coin-pendant-gold",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/spartan-skull-veni-vidi-vici-coin-pendant.jpg"
+    },
+    {
+     "titulo": "Hard Work & God's Work Double Sided Pendant",
+     "handle": "hard-work-gods-work-double-sided-pendant-silver",
+     "preco": 65.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/hard-work-gods-work-double-sided-pendant_8a379386.jpg"
+    },
+    {
+     "titulo": "Essential Cross Pendant",
+     "handle": "essential-cross-gold-pendant",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/essential-cross-pendant.jpg"
+    },
+    {
+     "titulo": "Icarus Double Sided Pendant",
+     "handle": "icarus-double-sided-pendant-gold",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/icarus-double-sided-pendant_e5a94335.jpg"
+    },
+    {
+     "titulo": "Spartan Skull Veni Vidi Vici Coin Pendant",
+     "handle": "spartan-skull-veni-vidi-vici-coin-pendant-black-silver",
+     "preco": 75.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0261/0833/0077/files/spartan-skull-veni-vidi-vici-coin-pendant_cbf3c900.jpg"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2001-04-01",
+   "dias_arquivados": 134,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 9,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ }
+}

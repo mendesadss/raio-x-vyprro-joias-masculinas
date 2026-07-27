@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mercados · Raio-X Vyprro</title><link rel="stylesheet" href="estilo.css"></head><body>
+<nav class="nav"><div class="wrap">
+<a href="../Pesquisa%20-%20clique%20aqui.html" class="home">◆ Painel</a>
+<a href="estrategia.html">★ Estratégia</a>
+<a href="plano-de-acao.html">🎯 Plano de Ação</a>
+<a href="mercados.html" class="on">🌍 Mercados</a>
+<a href="loja-vyprro.html">Vyprro (referência)</a>
+<a href="loja-luxujewelry.html">Luxujewelry</a>
+<a href="loja-storeedyta.html">Ed&amp;Ta / Storeedyta</a>
+<a href="loja-alfredco.html">Alfred &amp; Co. London</a>
+<a href="loja-humbler.html">Humbler</a>
+</div></nav>
+
+<header><div class="wrap">
+<div class="tag">Mercados · qual país e idioma</div>
+<h1>Qual país atacar primeiro</h1>
+<p class="sub">Cruzamento de dois sinais reais: origem de tráfego medida (SimilarWeb) dos 4 concorrentes e o próprio idioma de veiculação dos anúncios encontrados na Ad Library.</p>
+</div></header>
+
+<section><div class="wrap">
+<h2><span class="n">01</span>O método</h2>
+<p class="lead">Termo amplo mede o <b>tamanho</b> do mercado; termo de ângulo mede a <b>concorrência</b> real naquele país. Aqui, como os 4 concorrentes qualificados já foram medidos individualmente no SimilarWeb, uso a origem de tráfego REAL deles como sinal primário — mais forte que estimar por demografia (erro já registrado nesta skill: nunca recomendar país sem medir volume real).</p>
+<div class="grid g2">
+<div class="card"><b style="color:var(--acc)">Sinal 1 — Origem de tráfego medida</b>
+<ul class="cl" style="margin-top:10px">
+<li>Luxujewelry: <b>100% EUA</b></li>
+<li>Storeedyta: <b>100% EUA</b></li>
+<li>Alfred &amp; Co: EUA 55,9% · <b>Reino Unido 25,3%</b> · Vietnã 7,4% · Índia 3,8% · Canadá 2,9%</li>
+<li>Humbler: EUA 41,5% · Brasil 10,5% · Espanha 9,5% · Reino Unido 7,4% · Nigéria 6,4%</li>
+</ul>
+</div>
+<div class="card"><b style="color:var(--warn)">Sinal 2 — Idioma dos anúncios levantados</b>
+<ul class="cl" style="margin-top:10px">
+<li>Buscas em inglês (EUA/Reino Unido) trouxeram os 4 concorrentes qualificados</li>
+<li>Busca em alemão ("Herren Armband") não trouxe nenhum concorrente qualificado — mercado alemão de joia masculina apareceu vazio nesta amostra (declarado, não é conclusão forte com só 1 busca)</li>
+<li>Busca em francês trouxe só ruído (dentista, romance, Amazon agregador)</li>
+</ul>
+</div>
+</div>
+</div></section>
+
+<section><div class="wrap">
+<h2><span class="n">02</span>Tabela de países</h2>
+<div class="tblwrap">
+<table>
+<thead><tr><th>País</th><th>Sinal de tamanho</th><th>Sinal de concorrência</th><th>Razão de assimetria</th><th>Leitura</th></tr></thead>
+<tbody>
+<tr style="background:rgba(149,191,71,.06)"><td><b>Estados Unidos</b></td><td>100% do tráfego dos 2 concorrentes menores; maior fatia nos 2 maiores</td><td>4 de 4 concorrentes qualificados anunciam em inglês/USD, mas nenhum satura o nicho (líder com só 238 ativos)</td><td class="num">4:0 <span style="color:var(--dim2);font-size:11.5px">(4 concorrentes com tráfego relevante, 0 saturando)</span></td><td><span class="pill p-a">MERCADO PRIMÁRIO</span></td></tr>
+<tr><td><b>Reino Unido</b></td><td>25,3% do tráfego da Alfred &amp; Co. (marca nativa britânica), 7,4% da Humbler</td><td>Mesma língua, sem necessidade de tradução; Alfred &amp; Co. já validou apetite por "quiet/refined" no público britânico</td><td class="num">2:0 <span style="color:var(--dim2);font-size:11.5px">(2 concorrentes já vendem lá, nenhum dedicado só a esse país)</span></td><td><span class="pill p-b">SECUNDÁRIO — mesma loja/idioma</span></td></tr>
+<tr><td><b>Alemanha</b></td><td>não medido nesta rodada (busca em alemão não achou concorrente qualificado)</td><td>—</td><td class="num">— <span style="color:var(--dim2);font-size:11.5px">(razão não calculável, dado insuficiente)</span></td><td><span class="pill p-n">NÃO CONCLUSIVO — 1 busca só, não esgotado</span></td></tr>
+<tr><td><b>Brasil / Espanha / Nigéria</b></td><td>10,5% / 9,5% / 6,4% do tráfego da Humbler (cauda longa, não medido isoladamente)</td><td>Sem concorrente qualificado nativo desses países no levantamento</td><td class="num">1:0 <span style="color:var(--dim2);font-size:11.5px">(só 1 concorrente com tráfego incidental, nenhum dedicado)</span></td><td><span class="pill p-n">CAUDA — não priorizar na entrada</span></td></tr>
+</tbody>
+</table>
+</div>
+</div></section>
+
+<section><div class="wrap">
+<h2><span class="n">03</span>Cruzamento com Google Trends</h2>
+<div class="note danger"><b>Lacuna declarada.</b> O Google Trends (pytrends) retornou erro 429 (limite de taxa) nas duas tentativas desta sessão. Não há cruzamento de demanda de busca por país nesta pesquisa — a decisão de mercado acima se apoia só nos dois sinais reais medidos (tráfego + idioma dos anúncios), não em três como é o padrão da skill. Se o Trends liberar depois, vale re-rodar antes de comprometer orçamento de mídia grande.</div>
+</div></section>
+
+<section><div class="wrap">
+<h2><span class="n">04</span>Idioma e sequência de entrada</h2>
+<ol class="steps">
+<li><b>Comece nos Estados Unidos, em inglês, cobrando em USD.</b> É onde a Vyprro já vende, onde os 4 concorrentes qualificados anunciam, e onde a mediana de ticket ($35-55) e o benchmark de custo (CPM $9,23, CPC $0,45) foram calibrados.</li>
+<li><b>Reino Unido como extensão natural, não como segundo mercado separado.</b> Mesmo idioma, sem tradução, e a Alfred &amp; Co. já prova que "refined/quiet" ressoa lá — pode rodar a mesma campanha com geo ampliado assim que os EUA estabilizarem.</li>
+<li><b>Não entre na Alemanha sem nova pesquisa de busca.</b> A ausência de concorrente nesta rodada é sinal fraco (1 busca só), pode ser nicho vazio de verdade ou só busca incompleta — não decida com isso.</li>
+</ol>
+<div class="note good"><b>Decisão de mercado: Estados Unidos, inglês, USD, com Reino Unido como expansão de geo (não tradução) depois de validado.</b></div>
+</div></section>
+
+<footer><div class="wrap"><p><a href="../Pesquisa%20-%20clique%20aqui.html">← Voltar ao painel</a></p></div></footer>
+</body></html>

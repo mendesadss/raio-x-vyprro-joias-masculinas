@@ -1,0 +1,169 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vyprro — mockup home</title>
+<style>
+:root{--bg:#0B0B0C;--bg2:#151517;--ink:#F4F1EA;--brass:#B08D57;--line:#2A2A28;--good:#6B8F71;--dim:#A8A6A0}
+*{box-sizing:border-box;margin:0;padding:0;min-width:0}
+html,body{overflow-x:hidden;max-width:100vw}
+img{max-width:100%}
+body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:'Cormorant Garamond','Georgia',serif;font-weight:600;letter-spacing:.01em}
+.wrap{max-width:1180px;margin:0 auto;padding:0 32px}
+a{color:inherit;text-decoration:none}
+/* header */
+header.top{display:flex;align-items:center;justify-content:space-between;padding:22px 32px;border-bottom:1px solid var(--line)}
+.logo{font-family:'Cormorant Garamond',serif;font-size:26px;letter-spacing:.16em}
+.navlinks{display:flex;gap:28px;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--dim)}
+.navicons{display:flex;gap:16px;font-size:18px}
+/* hero */
+.hero{position:relative;min-height:78vh;display:flex;align-items:center;background:linear-gradient(180deg,rgba(11,11,12,.15),rgba(11,11,12,.85)),#1b1b1d}
+.hero .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#555;font-size:13px;text-align:center;letter-spacing:.05em}
+.hero-in{position:relative;z-index:1;padding:80px 32px;max-width:640px}
+.eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--brass);margin-bottom:18px}
+.hero h1{font-size:56px;line-height:1.05;margin-bottom:18px}
+.hero p{color:var(--dim);font-size:16px;line-height:1.6;margin-bottom:30px;max-width:460px}
+.btn{display:inline-block;background:var(--brass);color:#0B0B0C;padding:15px 36px;font-size:13px;letter-spacing:.12em;text-transform:uppercase;font-weight:600;border-radius:2px}
+.btn.ghost{background:transparent;border:1px solid var(--brass);color:var(--brass);margin-left:14px}
+/* trust bar */
+.trustbar{display:flex;justify-content:center;gap:48px;padding:22px 32px;border-bottom:1px solid var(--line);flex-wrap:wrap;background:var(--bg2)}
+.trustitem{display:flex;align-items:center;gap:9px;font-size:12.5px;color:var(--dim);letter-spacing:.03em}
+.trustitem b{color:var(--ink);font-weight:600}
+/* categories */
+.section{padding:70px 32px}
+.sec-h{text-align:center;margin-bottom:44px}
+.sec-h .eyebrow{justify-content:center;display:flex}
+.sec-h h2{font-size:34px}
+.cats{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.cat{position:relative;aspect-ratio:3/4;background:var(--bg2);border:1px solid var(--line);display:flex;align-items:flex-end;overflow:hidden}
+.cat .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#555;font-size:11.5px;text-align:center;padding:12px}
+.cat span{position:relative;z-index:1;padding:18px;font-size:15px;background:linear-gradient(0deg,rgba(0,0,0,.65),transparent);width:100%;letter-spacing:.03em}
+/* how it works */
+.how{display:grid;grid-template-columns:repeat(3,1fr);gap:36px;text-align:center}
+.how .n{font-family:'Cormorant Garamond',serif;font-size:44px;color:var(--brass);margin-bottom:10px}
+.how h3{font-size:19px;margin-bottom:8px}
+.how p{color:var(--dim);font-size:13.5px;line-height:1.6}
+/* editorial / material story */
+.editorial{display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:center;background:var(--bg2);border:1px solid var(--line)}
+.editorial .ph{aspect-ratio:4/5;display:flex;align-items:center;justify-content:center;color:#555;font-size:12px;text-align:center;padding:16px}
+.editorial .txt{padding:56px}
+.editorial h2{font-size:30px;margin-bottom:16px}
+.editorial p{color:var(--dim);font-size:14.5px;line-height:1.7;margin-bottom:14px}
+.editorial ul{list-style:none;margin-top:18px}
+.editorial li{font-size:13.5px;color:var(--ink);padding:8px 0;border-top:1px solid var(--line);display:flex;gap:10px}
+.editorial li b{color:var(--good)}
+/* reviews */
+.reviews{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.rev{background:var(--bg2);border:1px solid var(--line);padding:24px}
+.stars{color:var(--brass);font-size:14px;margin-bottom:10px}
+.rev p{font-size:13.5px;color:var(--dim);line-height:1.6;margin-bottom:14px}
+.rev .who{font-size:12px;color:var(--ink);display:flex;align-items:center;gap:8px}
+.rev .ph{width:100%;aspect-ratio:16/9;background:#1b1b1d;display:flex;align-items:center;justify-content:center;color:#555;font-size:11px;margin-bottom:12px}
+/* footer */
+footer{border-top:1px solid var(--line);padding:50px 32px 30px;background:var(--bg2)}
+.fgrid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;margin-bottom:36px}
+footer h4{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--brass);margin-bottom:16px}
+footer p,footer a{font-size:13px;color:var(--dim);line-height:2}
+.fbottom{border-top:1px solid var(--line);padding-top:20px;text-align:center;font-size:11.5px;color:#6a6862;letter-spacing:.04em}
+/* sticky mobile hint (desktop invisible) */
+@media(max-width:720px){
+  .cats{grid-template-columns:repeat(2,1fr)}
+  .how{grid-template-columns:1fr}
+  .editorial{grid-template-columns:1fr}
+  .reviews{grid-template-columns:1fr}
+  .hero h1{font-size:38px}
+  .fgrid{grid-template-columns:1fr 1fr}
+  .navlinks{display:none}
+}
+</style></head>
+<body>
+
+<!-- BLOCO: hero -->
+<header class="top">
+<div class="logo">VYPRO</div>
+<div class="navlinks"><a>Bracelets</a><a>Necklaces</a><a>Rings</a><a>Watches</a></div>
+<div class="navicons"><a>🔍</a><a>👤</a><a>🛒</a></div>
+</header>
+
+<section class="hero">
+<div class="ph">IMAGEM 1 · homem de perfil, luz lateral fria, pulseira Veylor em destaque no punho, mão apoiada em corrimão de aço (motivo náutico)</div>
+<div class="hero-in">
+<div class="eyebrow">Refined jewelry for modern men</div>
+<h1>Move with purpose.<br>Wear it quietly.</h1>
+<p>316L stainless steel. Waterproof. Built for the man who doesn't need to say it twice.</p>
+<a class="btn" href="#">Shop Bracelets</a><a class="btn ghost" href="#">Shop All</a>
+</div>
+</section>
+<!-- /BLOCO: hero -->
+
+<!-- BLOCO: trust-bar -->
+<div class="trustbar">
+<div class="trustitem">⚓ <b>316L Stainless Steel</b> — real, not plated</div>
+<div class="trustitem">💧 <b>100% Waterproof</b> — shower, swim, sweat</div>
+<div class="trustitem">🚚 <b>Free shipping</b> over $50</div>
+<div class="trustitem">↩ <b>30-day</b> no-questions returns</div>
+</div>
+<!-- /BLOCO: trust-bar -->
+
+<!-- BLOCO: shop-by-occasion -->
+<section class="section">
+<div class="sec-h"><div class="eyebrow">Shop by category</div><h2>Every piece, built to last</h2></div>
+<div class="cats">
+<div class="cat"><div class="ph">IMAGEM 2 · pulseira Veylor sozinha, still de estúdio, fundo escuro</div><span>Bracelets</span></div>
+<div class="cat"><div class="ph">IMAGEM 3 · colar Aether Cross em busto masculino, luz suave</div><span>Necklaces</span></div>
+<div class="cat"><div class="ph">IMAGEM 4 · anel Noctis na mão, foco no anel, fundo desfocado</div><span>Rings</span></div>
+<div class="cat"><div class="ph">IMAGEM 5 · relógio Imperial no pulso, ângulo de 3/4</div><span>Watches</span></div>
+</div>
+</section>
+<!-- /BLOCO: shop-by-occasion -->
+
+<!-- BLOCO: how-it-works -->
+<section class="section" style="padding-top:0">
+<div class="how">
+<div><div class="n">01</div><h3>Marine-grade steel</h3><p>316L stainless steel — the same grade used in surgical instruments and boat hardware. It doesn't turn green.</p></div>
+<div><div class="n">02</div><h3>Waterproof by design</h3><p>Shower, swim, sweat — no ritual of taking it off. It's built for a life in motion, not a jewelry box.</p></div>
+<div><div class="n">03</div><h3>Quiet, not loud</h3><p>No logos shouting for attention. The kind of piece other men notice, and never ask where you got it.</p></div>
+</div>
+</section>
+<!-- /BLOCO: how-it-works -->
+
+<!-- BLOCO: the-pair (usado aqui como "a história do material") -->
+<section class="section" style="padding-top:0">
+<div class="editorial">
+<div class="ph">IMAGEM 6 · close-up macro da textura do aço 316L, gotas de água, luz dura lateral</div>
+<div class="txt">
+<h2>Why 316L, and not "stainless steel" alone</h2>
+<p>Most jewelry marketed as "stainless steel" is actually plated base metal — it looks right in the photo and fades in six weeks. That's the complaint behind almost every 1-star review in this category.</p>
+<ul>
+<li><b>✓</b> 316L releases far less nickel than 304-grade — safer for sensitive skin</li>
+<li><b>✓</b> Solid steel through and through, not a coating over something cheaper</li>
+<li><b>✓</b> Hypoallergenic, tarnish-resistant, built to outlast the trend</li>
+</ul>
+</div>
+</div>
+</section>
+<!-- /BLOCO: the-pair -->
+
+<!-- BLOCO: reviews -->
+<section class="section">
+<div class="sec-h"><div class="eyebrow">Worn daily</div><h2>What men are saying</h2></div>
+<div class="reviews">
+<div class="rev"><div class="ph">IMAGEM 9 · foto de review orgânica, homem de camiseta usando a pulseira no dia a dia</div><div class="stars">★★★★★</div><p>"Been in the shower, the ocean, everywhere — still looks brand new. Not what I expected for the price."</p><div class="who">— D.M., verified buyer</div></div>
+<div class="rev"><div class="ph">IMAGEM 10 · foto de review orgânica, mão segurando caixa de presente aberta</div><div class="stars">★★★★★</div><p>"Got it as a gift for my brother. Heavier and more solid than I expected — doesn't feel like the usual cheap stuff."</p><div class="who">— R.K., verified buyer</div></div>
+<div class="rev"><div class="ph">IMAGEM 11 · foto de review orgânica, close no pulso com a pulseira, luz natural</div><div class="stars">★★★★★</div><p>"Simple, no logo screaming for attention. Exactly what I wanted."</p><div class="who">— J.P., verified buyer</div></div>
+</div>
+</section>
+<!-- /BLOCO: reviews -->
+
+<!-- BLOCO: fecho -->
+<footer>
+<div class="wrap fgrid">
+<div><div class="logo" style="font-size:22px">VYPRO</div><p style="margin-top:14px;max-width:280px">Refined jewelry for modern men inspired by the spirit of the sea and the elegance of simplicity.</p></div>
+<div><h4>Shop</h4><a href="#">Bracelets</a><br><a href="#">Necklaces</a><br><a href="#">Rings</a><br><a href="#">Watches</a></div>
+<div><h4>Support</h4><a href="#">Contact</a><br><a href="#">Shipping</a><br><a href="#">Returns</a><br><a href="#">FAQ</a></div>
+<div><h4>Follow</h4><a href="#">Instagram</a><br><a href="#">TikTok</a></div>
+</div>
+<div class="fbottom">© VYPRO — 316L Stainless Steel · Waterproof · Designed for men in motion</div>
+</footer>
+<!-- /BLOCO: fecho -->
+
+</body></html>

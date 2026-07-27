@@ -1,0 +1,106 @@
+{
+  "_comentario": "Contrato de execucao gerado pelo raio-x de joias masculinas (Vyprro), 27/07/2026. Loja ja existe: este build.json documenta a reorganizacao recomendada, nao uma criacao do zero.",
+  "marca": {
+    "nome": "Vyprro",
+    "pais": "US",
+    "moeda": "USD",
+    "idioma": "en",
+    "paleta": {
+      "bg": "#0B0B0C",
+      "bg2": "#151517",
+      "primary": "#B08D57",
+      "accent": "#B08D57",
+      "ink": "#F4F1EA",
+      "good": "#6B8F71",
+      "line": "#2A2A28"
+    },
+    "fontes": {
+      "titulo": { "nome": "Cormorant Garamond", "handle": "cormorant_n5" },
+      "corpo": { "nome": "Inter", "handle": "inter_n4" }
+    },
+    "logo": null,
+    "announcement": "Free shipping over $50 · Buy 2, Get 1 Free · 30-day returns"
+  },
+  "colecoes": [
+    { "handle": "bracelets", "titulo": "Bracelets", "descricao_html": "<p>316L stainless steel and leather bracelets, built for daily wear.</p>" },
+    { "handle": "necklaces", "titulo": "Necklaces", "descricao_html": "<p>Waterproof pendants and chains in solid stainless steel.</p>" },
+    { "handle": "rings", "titulo": "Rings", "descricao_html": "<p>Signet and statement rings, minimalist and understated.</p>" },
+    { "handle": "watches", "titulo": "Watches", "descricao_html": "<p>Stainless steel watches with integrated bracelets.</p>" }
+  ],
+  "produtos": [
+    {
+      "handle": "veylor-bracelet",
+      "titulo": "Veylor Bracelet",
+      "tipo": "Bracelet",
+      "tags": ["bestseller", "316L", "waterproof"],
+      "colecao": "bracelets",
+      "preco": "39.90",
+      "de": "69.00",
+      "sku": "VYP-BR-01",
+      "status": "active",
+      "descricao_html": "<p>A rope-inspired bracelet in solid 316L stainless steel — the same grade used in marine hardware. Waterproof, tarnish-resistant, and adjustable to fit most wrists.</p><ul><li>316L stainless steel, not plated</li><li>100% waterproof</li><li>Hypoallergenic</li><li>Adjustable, 6.5\" to 8.5\"</li></ul>",
+      "seo_titulo": "Veylor Bracelet — 316L Stainless Steel | Vyprro",
+      "seo_descricao": "Waterproof 316L stainless steel bracelet for men. Won't tarnish or fade. Free shipping over $50.",
+      "pdp": {
+        "eyebrow": "For men who move with purpose",
+        "lede": "Wear it in the shower, the pool, the gym — no ritual of taking it off.",
+        "proof": "",
+        "season": "Best seller — restocked weekly"
+      },
+      "imagens": []
+    },
+    {
+      "handle": "aether-cross-necklace",
+      "titulo": "Aether Cross Necklace",
+      "tipo": "Necklace",
+      "tags": ["316L", "waterproof"],
+      "colecao": "necklaces",
+      "preco": "49.00",
+      "de": "79.00",
+      "sku": "VYP-NK-01",
+      "status": "active",
+      "descricao_html": "<p>A minimalist cross pendant in solid 316L stainless steel. Understated, waterproof, built to last.</p><ul><li>316L stainless steel, not plated</li><li>100% waterproof</li><li>Adjustable chain length</li></ul>",
+      "seo_titulo": "Aether Cross Necklace — 316L Stainless Steel | Vyprro",
+      "seo_descricao": "Waterproof stainless steel cross necklace for men. Understated, durable, hypoallergenic.",
+      "pdp": { "eyebrow": "Quiet, not loud", "lede": "No logo shouting for attention — just the piece.", "proof": "", "season": "Everyday carry, no occasion needed" },
+      "imagens": []
+    },
+    {
+      "handle": "noctis-ring-gold",
+      "titulo": "Noctis Ring Gold",
+      "tipo": "Ring",
+      "tags": ["signet", "316L"],
+      "colecao": "rings",
+      "preco": "54.00",
+      "de": null,
+      "sku": "VYP-RG-01",
+      "status": "active",
+      "descricao_html": "<p>A modern signet ring in gold-tone 316L stainless steel. Simple, weighty, built for daily wear.</p>",
+      "seo_titulo": "Noctis Signet Ring Gold — Vyprro",
+      "seo_descricao": "Men's gold-tone signet ring in solid stainless steel. Waterproof, tarnish-resistant.",
+      "pdp": { "eyebrow": "Refined simplicity", "lede": "The kind of ring other men notice, and never ask where you got it.", "proof": "", "season": "Everyday carry, no occasion needed" },
+      "imagens": []
+    }
+  ],
+  "addons": [
+    { "handle": "velvet-gift-box", "titulo": "Velvet Gift Box", "preco": "6.90", "de": "", "sku": "VYP-ADD-01" },
+    { "handle": "extra-polishing-cloth", "titulo": "Polishing Cloth", "preco": "4.90", "de": "", "sku": "VYP-ADD-02" }
+  ],
+  "bump_pdp": { "handle": "velvet-gift-box" },
+  "paginas": [
+    { "handle": "contact", "titulo": "Contact", "corpo_html": "<p>Questions about your order? Reach us at support@vyprro.com — we reply within 24 hours.</p>" },
+    { "handle": "shipping-policy", "titulo": "Shipping Policy", "corpo_html": "<p>We ship from the US. Orders process within 1-2 business days; delivery typically takes 5-8 business days within the US. Free shipping on orders over $50.</p>" },
+    { "handle": "refund-policy", "titulo": "Refund Policy", "corpo_html": "<p>30-day no-questions-asked returns. Item must be unworn and in original packaging. Contact support@vyprro.com to start a return.</p>" },
+    { "handle": "privacy-policy", "titulo": "Privacy Policy", "corpo_html": "<p>We collect only the information needed to process your order and never sell your data to third parties. [placeholder — revisar texto legal antes de publicar]</p>" },
+    { "handle": "terms-of-service", "titulo": "Terms of Service", "corpo_html": "<p>By purchasing from Vyprro, you agree to our shipping and refund policies. [placeholder — revisar texto legal antes de publicar]</p>" }
+  ],
+  "menu": [
+    { "tipo": "frontpage", "titulo": "Home" },
+    { "tipo": "collection", "titulo": "Bracelets", "handle": "bracelets" },
+    { "tipo": "collection", "titulo": "Necklaces", "handle": "necklaces" },
+    { "tipo": "collection", "titulo": "Rings", "handle": "rings" },
+    { "tipo": "collection", "titulo": "Watches", "handle": "watches" }
+  ],
+  "tema": { "settings": {} },
+  "_nota": "Produtos aqui sao os 3 principais reorganizados como exemplo do padrao de copy/estrutura; o catalogo completo da Vyprro tem 60 SKUs ja existentes que devem seguir o mesmo padrao de titulo+bullets+selo de material ao serem revisados."
+}

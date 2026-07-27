@@ -1,0 +1,128 @@
+{
+ "vyprro.com": {
+  "visitas": null,
+  "rankGlobal": null,
+  "rankPais": null,
+  "rankCategoria": null,
+  "bounce": null,
+  "pagesPerVisit": null,
+  "duracao": null,
+  "status": "SEM DADOS",
+  "print": "prints/sw-vyprro_com.jpg",
+  "dominio": "vyprro.com"
+ },
+ "luxujewelry.shop": {
+  "visitas": "20K",
+  "rankGlobal": "2,738,416",
+  "rankPais": "206,944",
+  "rankCategoria": null,
+  "bounce": "82.58%",
+  "pagesPerVisit": "1.21",
+  "duracao": "00:00:01",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "100%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-luxujewelry_shop.jpg",
+  "dominio": "luxujewelry.shop"
+ },
+ "storeedyta.com": {
+  "visitas": "20K",
+  "rankGlobal": "3,261,108",
+  "rankPais": "922,912",
+  "rankCategoria": null,
+  "bounce": "85.35%",
+  "pagesPerVisit": "1.27",
+  "duracao": "00:00:04",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "100%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-storeedyta_com.jpg",
+  "dominio": "storeedyta.com"
+ },
+ "alfredco.com": {
+  "visitas": "52.6K",
+  "rankGlobal": "675,083",
+  "rankPais": "51,133",
+  "rankCategoria": "380",
+  "bounce": "66.13%",
+  "pagesPerVisit": "1.82",
+  "duracao": "00:00:44",
+  "rank3mAtras": "738,951",
+  "rankAtual": "675,083",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "55.92%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "25.26%"
+   },
+   {
+    "pais": "Vietnam",
+    "pct": "7.35%"
+   },
+   {
+    "pais": "India",
+    "pct": "3.76%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "2.94%"
+   },
+   {
+    "pais": "Others",
+    "pct": "4.76%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-alfredco_com.jpg",
+  "dominio": "alfredco.com"
+ },
+ "humbler.com": {
+  "visitas": "49.2K",
+  "rankGlobal": "645,484",
+  "rankPais": "214,921",
+  "rankCategoria": "5,866",
+  "bounce": "50.92%",
+  "pagesPerVisit": "2.35",
+  "duracao": "00:00:55",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "41.49%"
+   },
+   {
+    "pais": "Brazil",
+    "pct": "10.54%"
+   },
+   {
+    "pais": "Spain",
+    "pct": "9.53%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "7.41%"
+   },
+   {
+    "pais": "Nigeria",
+    "pct": "6.35%"
+   },
+   {
+    "pais": "Others",
+    "pct": "24.68%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-humbler_com.jpg",
+  "dominio": "humbler.com"
+ }
+}

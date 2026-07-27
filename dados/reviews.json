@@ -1,0 +1,112 @@
+{
+ "vyprro.com": {
+  "dominio": "vyprro.com",
+  "produtos": [],
+  "declarado_home": null,
+  "apps_review": []
+ },
+ "luxujewelry.shop": {
+  "dominio": "luxujewelry.shop",
+  "produtos": [],
+  "declarado_home": null,
+  "apps_review": []
+ },
+ "storeedyta.com": {
+  "dominio": "storeedyta.com",
+  "produtos": [
+   {
+    "handle": "carved-viking-cross-pendant-necklace",
+    "reviewCount": 79,
+    "ratingValue": "4.92",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "tree-of-life-pendant-necklace-with-vegvisir-rune-retro-punk-style-for-men",
+    "reviewCount": 46,
+    "ratingValue": "4.93",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "archangel-michael-shield-necklace-mens-spiritual-protection",
+    "reviewCount": 20,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "archangel-michael-necklace-with-sword-and-wings-protective-stainless-steel-pendant",
+    "reviewCount": 26,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "viking-runic-pendant-nordic-style-necklace",
+    "reviewCount": 18,
+    "ratingValue": "4.94",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "st-michael-archangel-shield-pendant-stainless-steel-necklace-divine-protection-unique-style",
+    "reviewCount": 10,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "viking-necklace-with-thors-hammer-and-crown-norse-runes-valknut-amulet-for-men-vintage-style-stainless-steel-pendant",
+    "reviewCount": 18,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "mens-punk-irish-celtic-necklace",
+    "reviewCount": 14,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "spartan-corinthian-helmet-pendant-necklace-stainless-steel-greek-warrior-jewelry-mythology-and-strength-gift",
+    "reviewCount": 19,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "304-stainless-steel-18k-gold-plated-hip-hop-geometric-inlay-bracelet",
+    "reviewCount": 5,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "mens-stainless-steel-jesus-crucifix-pendant-durable-catholic-cross-necklace",
+    "reviewCount": 6,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "viking-nordic-rune-necklace-for-men-celtic-knot-in-stainless-steel",
+    "reviewCount": 3,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   }
+  ],
+  "declarado_home": null,
+  "apps_review": [],
+  "pedidos_estimados": {
+   "base_reviews": 264,
+   "fonte_base": "soma de 12 produtos amostrados (piso, nao total)",
+   "a_3pct": 8800,
+   "a_1pct": 26400
+  }
+ },
+ "alfredco.com": {
+  "dominio": "alfredco.com",
+  "produtos": []
+ },
+ "humbler.com": {
+  "dominio": "humbler.com",
+  "produtos": [],
+  "declarado_home": 1116,
+  "apps_review": [
+   "judge.me"
+  ],
+  "alerta_home": "A home declara 1116 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+ }
+}
