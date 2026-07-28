@@ -1,0 +1,34 @@
+{
+ "vyprro.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=vyprro.com"
+ },
+ "luxujewelry.shop": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=luxujewelry.shop"
+ },
+ "storeedyta.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=storeedyta.com"
+ },
+ "alfredco.com": {
+  "anuncia": true,
+  "contagem": 300,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=alfredco.com"
+ },
+ "humbler.com": {
+  "anuncia": true,
+  "contagem": 33,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=humbler.com"
+ }
+}
